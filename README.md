@@ -1,5 +1,5 @@
 # Auto Set Bilibili Video in HTML
-仅需一行代码, 快速解析并设置&lt;video>的Bilibili视频链接
+真·仅需一行代码, 快速解析并设置&lt;video>的Bilibili视频链接
 ### 1. 在&lt;head>标签中添加JavaScript文件
 ```html
 <script src="./main.js"></script>
@@ -38,3 +38,5 @@
 
 >[!NOTE]
 >此项目所使用的API: [INJAHOW](https://api.injahow.cn/bparse/)
+
+这下可以把B站当网盘用了(喜
