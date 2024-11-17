@@ -37,6 +37,8 @@
 由于权限问题, 有时可能会出现短暂由403 Forbidden导致的无法播放情况
 
 >[!NOTE]
->此项目所使用的API: [INJAHOW](https://api.injahow.cn/bparse/)
+>此项目所使用的API: [INJAHOW](https://api.injahow.cn/bparse/)  
+>该API每天可请求次数有限, 可通过该API作者的开源仓库自行搭建  
+>https://github.com/injahow/bilibili-parse/
 
 这下可以把B站当网盘用了(喜
