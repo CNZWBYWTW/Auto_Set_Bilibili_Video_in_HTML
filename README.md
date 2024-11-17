@@ -20,7 +20,7 @@
 <html lang="zh-cn">
 
 <head>
-    <script src="./set_bili_bv_video.js"></script>
+    <script src="https://api.cnzw.us.kg/js/set_bili_bv_video.js"></script>
 </head>
 
 <body>
