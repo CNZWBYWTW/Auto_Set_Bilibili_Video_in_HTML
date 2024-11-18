@@ -24,7 +24,7 @@
 </head>
 
 <body>
-    <video data-bili-bv="BV1Ag4y1b7pa" data-bili-p="1"></video>
+    <video data-bili-bv="BV1Ag4y1b7pa"></video>
 </body>
 
 </html>
