@@ -10,9 +10,9 @@
 ```
 ### 2. 在&lt;video>标签中添加指定属性
 ```html
-<video data-bili-bv="" data-bili-p=""></video>
+<video data-bili-bv=""></video>
 ```
-其中, data-bili-bv是视频的BV号(必要), data-bili-p是视频的集数(非必要, 默认为1)
+其中, data-bili-bv是视频的BV号
 
 ### 示例代码
 ```html
@@ -37,8 +37,6 @@
 由于权限问题, 有时可能会出现短暂由403 Forbidden导致的无法播放情况
 
 >[!NOTE]
->此项目所使用的API: [INJAHOW](https://api.injahow.cn/bparse/)  
->该API每天可请求次数有限, 可通过该API作者的开源仓库自行搭建  
->https://github.com/injahow/bilibili-parse/
+>此项目所使用的API: https://api.dyqvideo.com/download/url/get
 
 这下可以把B站当网盘用了(喜
