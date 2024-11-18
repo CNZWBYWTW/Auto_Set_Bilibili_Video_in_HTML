@@ -32,10 +32,6 @@
 ### 示例效果
 ![image](https://github.com/user-attachments/assets/9317b1a8-36ed-407d-8976-ed1322bb69ee)
 
-
-### 缺点
-由于权限问题, 有时可能会出现短暂由403 Forbidden导致的无法播放情况
-
 >[!NOTE]
 >此项目所使用的API: https://api.dyqvideo.com/download/url/get
 
