@@ -34,6 +34,23 @@
 
 
 >[!NOTE]
->此项目所使用的API: https://api.dyqvideo.com/download/url/get
+>此项目所使用的API: https://api.dyqvideo.com/download/url/get  
+>请求方法: POST  
+>参数:
+>```json
+>"url": "这里替换为视频链接",
+>"videoChannel": "BILI_BILI"
+>```
+>返回参数:
+>```json
+>{
+>    "data": {
+>        "downloadUrl": "视频链接",
+>        "name": "视频标题"
+>    },
+>    "code": 0,
+>    "msg": null
+>}
+>```
 
 这下可以把B站当网盘用了(喜
