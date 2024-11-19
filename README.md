@@ -36,7 +36,7 @@
 >[!NOTE]
 >此项目所使用的API: https://api.dyqvideo.com/download/url/get  
 >请求方法: POST  
->参数:
+>请求参数:
 >```json
 >"url": "这里替换为视频链接",
 >"videoChannel": "BILI_BILI"
