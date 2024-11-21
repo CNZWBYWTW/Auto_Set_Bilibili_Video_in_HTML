@@ -1,5 +1,7 @@
 # Auto Set Bilibili Video in HTML
-真·仅需一行代码, 快速解析并设置&lt;video>的Bilibili视频链接
+真·仅需一行代码, 快速解析并设置&lt;video>的Bilibili视频链接  
+***Created by CNZW***
+
 ### 1. 在&lt;head>标签中添加JavaScript文件
 ```html
 <script src="./main.js"></script>
@@ -35,7 +37,7 @@
 
 >[!NOTE]
 >此项目所使用的API: https://api.dyqvideo.com/download/url/get  
->请求方法: POST  
+>请求方法: **POST**  
 >请求参数:
 >```json
 >"url": "这里替换为视频链接",
