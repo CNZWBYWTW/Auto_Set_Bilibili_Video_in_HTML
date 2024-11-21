@@ -1,6 +1,6 @@
 # Auto Set Bilibili Video in HTML
 真·仅需一行代码, 快速解析并设置&lt;video>的Bilibili视频链接  
-***Created by CNZW***
+***Created by [CNZW](https://cnzw.us.kg/)***
 
 ### 1. 在&lt;head>标签中添加JavaScript文件
 ```html
