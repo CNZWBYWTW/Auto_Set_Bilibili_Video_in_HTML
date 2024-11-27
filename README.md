@@ -36,7 +36,7 @@
 
 
 >[!NOTE]
->此项目所使用的API: https://api.dyqvideo.com/download/url/get
+>此项目所使用的API: https://api.dyqvideo.com/download/url/get  
 >经测试, 该API只能解析的视频只有360P的清晰度, 如果你有更好的API接口, 可以自行替换  
 >请求方法: **POST**  
 >请求参数:
